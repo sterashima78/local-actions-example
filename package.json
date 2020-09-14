@@ -1,0 +1,23 @@
+{
+  "name": "local-actions-example",
+  "version": "1.0.0",
+  "description": "同じリポジトリ内で Action を作成するときの例",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sterashima78/local-actions-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sterashima78/local-actions-example/issues"
+  },
+  "homepage": "https://github.com/sterashima78/local-actions-example#readme",
+  "devDependencies": {
+    "dependency-cruiser": "^9.13.1"
+  }
+}
